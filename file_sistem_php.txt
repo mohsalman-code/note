@@ -1,0 +1,6 @@
+- rmdir() = fungsi untuk menghapus direktori/folder
+- mkdir() = fungsi untuk membuat direktori/folder
+- filesize() = fungsi untuk mengembalikan ukuran suatu file
+- filetype() = fungsi untuk mengembalikan tipe file dari sebuah file
+- pathinfo() = fungsi untuk mendapatkan informasi tentang jalur file
+- linkinfo() = fungsi untuk mengembalikan informasi tentang tautan keras, dan digunakan untuk memverifikasi apakah tautan benar-benar ada
